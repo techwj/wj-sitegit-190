@@ -1,0 +1,59 @@
+{
+  "siteId": "cat-supplies-review",
+  "generatedAt": "2026-06-04T11:36:14.139943",
+  "categories": [
+    "beginner-cat-supplies-review",
+    "advanced-cat-supplies-review",
+    "tips-cat-supplies-review",
+    "history-cat-supplies-review",
+    "trending-cat-supplies-review",
+    "tutorials-cat-supplies-review"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-cat-supplies-review",
+      "category_name": "Beginner Cat Supplies Review"
+    },
+    {
+      "category_slug": "advanced-cat-supplies-review",
+      "category_name": "Advanced Cat Supplies Review"
+    },
+    {
+      "category_slug": "tips-cat-supplies-review",
+      "category_name": "Cat Supplies Review Tips"
+    },
+    {
+      "category_slug": "history-cat-supplies-review",
+      "category_name": "Cat Supplies Review History"
+    },
+    {
+      "category_slug": "trending-cat-supplies-review",
+      "category_name": "Trending Cat Supplies Review"
+    },
+    {
+      "category_slug": "tutorials-cat-supplies-review",
+      "category_name": "Cat Supplies Review Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "cat-supplies-review",
+    "color_scheme": {
+      "name": "Warm Orange",
+      "primary": "#c2410c",
+      "secondary": "#f97316",
+      "accent": "#fdba74",
+      "background": "#fff7ed",
+      "text": "#7c2d12",
+      "light": "#ffedd5"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "sidebar",
+    "site_title": "Cat Supplies Review Central",
+    "articles_per_row": 2
+  }
+}
